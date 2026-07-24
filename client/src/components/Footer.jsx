@@ -1,7 +1,18 @@
 function Footer() {
   return (
     <footer>
-      <p>Built for Digital Heroes Training Task</p>
+      <p>© 2026 LeadDesk Mini</p>
+
+      <p>
+        Built for{" "}
+        <a
+          href="https://digitalheroesco.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Digital Heroes Training Task
+        </a>
+      </p>
     </footer>
   );
 }
