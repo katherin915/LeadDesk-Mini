@@ -19,7 +19,6 @@ function Hero() {
             <button className="primary-btn">Request Demo</button>
           </a>
 
-          <button className="secondary-btn">Learn More</button>
         </div>
       </div>
 
